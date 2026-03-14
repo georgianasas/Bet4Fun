@@ -51,3 +51,12 @@ backend/config/database.local.php
 .svn/
 .swiftpm/
 migrate_working_dir/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/ephemeral/
+ios/Runner.xcworkspace/xcuserdata/
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
+
+macos/Flutter/ephemeral/
+macos/Runner.xcworkspace/xcuserdata/
