@@ -1,4 +1,4 @@
-# Bet4Fun? 🎾
+# Bet4Fun 🎾
 
 ### 🚀 Project Overview
 Bet4Fun is a social gamified platform designed for tennis fans. It combines real-time data with social competition, allowing users to engage more deeply with the sport through interactive features and rewards.
