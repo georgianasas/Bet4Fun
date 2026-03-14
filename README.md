@@ -1,17 +1,20 @@
-# bet4fun
+# Bet4Fun? 🎾
 
-A new Flutter project.
+### 🚀 Project Overview
+Bet4Fun is a social gamified platform designed for tennis fans. It combines real-time data with social competition, allowing users to engage more deeply with the sport through interactive features and rewards.
 
-## Getting Started
+### ✨ Key Features
+* **Live Score Tracking:** Real-time updates for professional tennis matches.
+* **Prediction Duels:** Challenge friends and other users to predict match outcomes.
+* **Gamification:** Earn XP and virtual currency to level up your profile and unlock achievements.
 
-This project is a starting point for a Flutter application.
+### 🛠 Tech Stack
+* **Frontend:** Flutter & Dart
+* **Backend:** PHP & SQL
+* **Data Integration:** Professional sports APIs for real-time match data.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📈 Roadmap & Status
+- [x] Initial Concept & Database Architecture
+- [ ] UI/UX Design (Current Focus)
+- [ ] Multi-tour Integration (WTA/ATP)
+- [ ] Social Leaderboards
